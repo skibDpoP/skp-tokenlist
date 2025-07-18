@@ -1,6 +1,8 @@
 {
   "name": "SkibidiPoppy Token List",
-  "timestamp": "2025-07-18T13:49:20.404083Z",
+  "logoURI": "https://skibDpoP.github.io/skp-tokenlist/skp-logo-256x256.png",
+  "keywords": ["skp", "skibidipoppy"],
+  "timestamp": "2025-07-18T16:00:02Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -10,10 +12,10 @@
     {
       "chainId": 10,
       "address": "0x8072CF35fA415DF296F0038f8d8163f81f6d44AD",
-      "name": "SkibidiPoppy",
       "symbol": "SKP",
+      "name": "SkibidiPoppy",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/skibDpoP/skp-tokenlist/main/skp-logo-256x256.png"
+      "logoURI": "https://skibDpoP.github.io/skp-tokenlist/skp-logo-256x256.png"
     }
   ]
 }
